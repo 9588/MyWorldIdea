@@ -1,2 +1,3 @@
 # MyWorldIdea
-My first repository used to do some tests
+My first repository used to do something.
+so
